@@ -3,7 +3,7 @@
 <img src="./assets/profile-hero.svg" width="100%" alt="Merna Ahmed — Full-stack systems builder" />
 
 <a href="https://mernaahmedportfolio.netlify.app/"><img src="https://img.shields.io/badge/Explore_my_portfolio-71E8FF?style=for-the-badge&logo=safari&logoColor=07101C" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/merna-ahmed/"><img src="https://img.shields.io/badge/Let's_connect-875EFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/mirna-ahmed-253677257/"><img src="https://img.shields.io/badge/Let's_connect-875EFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 ### I turn complicated systems into products people can actually use.
 
@@ -67,7 +67,7 @@ My background includes enterprise development at IBM and hands-on work across Re
 
 **I can understand it, make it reliable, and explain what changed.**
 
-[Portfolio](https://mernaahmedportfolio.netlify.app/) · [Projects](https://github.com/Mirnamo?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/merna-ahmed/)
+[Portfolio](https://mernaahmedportfolio.netlify.app/) · [Projects](https://github.com/Mirnamo?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/mirna-ahmed-253677257/)
 
 <sub>Built with curiosity, careful engineering, and probably too many browser tabs ✦</sub>
 
