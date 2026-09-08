@@ -15,6 +15,18 @@ My background includes enterprise software development at IBM and hands-on work 
 
 ## Featured work
 
+### [AI App Rescue Lab](https://github.com/Mirnamo/ai-app-rescue-lab)
+
+A before-and-after case study showing how an unstable AI-generated SaaS application can be audited, secured, tested, documented, and prepared for reliable delivery.
+
+**Demonstrates:** application rescue, authorization design, input validation, structured errors, audit logging, automated testing, architecture decisions, React, FastAPI, and Docker.
+
+### [Legacy Code Intelligence](https://github.com/Mirnamo/legacy-code-intelligence)
+
+A codebase-analysis application that inventories unfamiliar source files, maps symbols and dependencies, calculates explainable health scores, and produces modernization guidance.
+
+**Demonstrates:** static analysis, legacy-system discovery, explainable scoring, technical documentation, modernization planning, React, and FastAPI.
+
 ### [Operations Workflow Hub](https://github.com/Mirnamo/operations-workflow-hub)
 
 A role-aware React and FastAPI operations dashboard with searchable work queues, reporting metrics, audit history, Docker support, and backend tests.
@@ -34,9 +46,9 @@ A Next.js operations dashboard integrating Appwrite, Plaid sandbox, and Dwolla s
 **Delivery:** Git, GitHub, Docker, testing, debugging, technical documentation  
 **Enterprise systems:** IBM Z, z/OS, REXX, HLASM, legacy-code analysis
 
-## Currently building
+## Current focus
 
-My next portfolio projects focus on codebase intelligence, application rescue, and business-process automation.
+I am building practical tools for codebase intelligence, application rescue, and business-process automation.
 
 > I can understand a messy system, make it reliable, and explain what changed.
 
