@@ -83,7 +83,7 @@ My background includes enterprise development at IBM and hands-on work across Re
 
 **I can understand it, make it reliable, and explain what changed.**
 
-[Portfolio](https://mernaahmedportfolio.netlify.app/) · [Projects](https://github.com/Mirnamo?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/mirna-ahmed-253677257/)
+[Portfolio](https://mernaahmedportfolio.netlify.app/) · [Projects](https://github.com/Mirnamo?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/merna-ahmed-253677257/)
 
 <sub>Built with curiosity, careful engineering, and probably too many browser tabs ✦</sub>
 
