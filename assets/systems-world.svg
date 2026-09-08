@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-label="Animated 3D systems world">
+<defs>
+ <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050813"/><stop offset=".55" stop-color="#07162d"/><stop offset="1" stop-color="#17092d"/></linearGradient>
+ <linearGradient id="edge" x1="0" x2="1"><stop stop-color="#72e9ff"/><stop offset="1" stop-color="#9b67ff"/></linearGradient>
+ <radialGradient id="planet"><stop stop-color="#dffaff"/><stop offset=".12" stop-color="#63dbff"/><stop offset=".5" stop-color="#2053ba"/><stop offset="1" stop-color="#080e28"/></radialGradient>
+ <filter id="glow2"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="shadow"><feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#000" flood-opacity=".55"/></filter>
+ <style>
+  .orbit{transform-origin:700px 195px;animation:spin 12s linear infinite}.orbit2{transform-origin:700px 195px;animation:spin 17s linear infinite reverse}
+  .cube{transform-origin:700px 195px;animation:bob 5s ease-in-out infinite}.packet{animation:dash 4s linear infinite}.blink{animation:blink 4s infinite}
+  .pulse{animation:pulse 2.4s ease-in-out infinite}.p2{animation-delay:-1.2s}
+  @keyframes spin{to{transform:rotate(360deg)}}@keyframes bob{0%,100%{transform:translateY(-7px)}50%{transform:translateY(9px)}}
+  @keyframes dash{to{stroke-dashoffset:-80}}@keyframes blink{0%,44%,48%,100%{transform:scaleY(1)}46%{transform:scaleY(.1)}}
+  @keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+  @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+ </style>
+</defs>
+<rect width="1200" height="390" rx="26" fill="url(#bg2)"/>
+<g opacity=".13" stroke="#84ddff"><path d="M0 65H1200M0 130H1200M0 195H1200M0 260H1200M0 325H1200M100 0V390M200 0V390M300 0V390M400 0V390M500 0V390M600 0V390M700 0V390M800 0V390M900 0V390M1000 0V390M1100 0V390"/></g>
+<text x="55" y="70" fill="#72e9ff" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">LIVE SYSTEM // MERNA.OS</text>
+<text x="55" y="126" fill="#fff" font-family="Arial,sans-serif" font-size="34" font-weight="700">Complexity, in motion.</text>
+<text x="55" y="158" fill="#9baac7" font-family="Arial,sans-serif" font-size="17">Observe · understand · integrate · deliver</text>
+<g transform="translate(105 205)" filter="url(#shadow)">
+ <rect width="260" height="120" rx="18" fill="#0d1630" stroke="#263b63"/>
+ <circle cx="44" cy="34" r="5" fill="#ff7187"/><circle cx="62" cy="34" r="5" fill="#ffd36e"/><circle cx="80" cy="34" r="5" fill="#72e9b5"/>
+ <text x="28" y="70" fill="#7de9bc" font-family="monospace" font-size="13">&gt; analyze --system</text>
+ <text x="28" y="94" fill="#9babca" font-family="monospace" font-size="12">7 services connected</text>
+</g>
+<path class="packet" d="M380 245 C470 245 480 195 545 195" fill="none" stroke="url(#edge)" stroke-width="3" stroke-dasharray="10 10" filter="url(#glow2)"/>
+<g class="orbit" fill="none" stroke="#70dfff" opacity=".42"><ellipse cx="700" cy="195" rx="166" ry="72" transform="rotate(-18 700 195)"/><circle cx="856" cy="145" r="8" fill="#72e9ff" stroke="none" filter="url(#glow2)"/></g>
+<g class="orbit2" fill="none" stroke="#9c6bff" opacity=".46"><ellipse cx="700" cy="195" rx="116" ry="166" transform="rotate(52 700 195)"/><circle cx="684" cy="42" r="7" fill="#b492ff" stroke="none" filter="url(#glow2)"/></g>
+<g class="cube" filter="url(#glow2)">
+ <path d="M700 112 777 154 777 238 700 280 623 238 623 154Z" fill="url(#planet)" opacity=".82" stroke="url(#edge)" stroke-width="3"/>
+ <path d="M700 112V196M623 154l77 42 77-42M700 196v84" fill="none" stroke="#d3f7ff" stroke-width="2" opacity=".72"/>
+ <circle cx="700" cy="196" r="23" fill="#effcff" opacity=".9"/><circle cx="700" cy="196" r="10" fill="#6c57ff"/>
+</g>
+<path class="packet" d="M850 195 C930 195 940 245 978 245" fill="none" stroke="url(#edge)" stroke-width="3" stroke-dasharray="10 10" filter="url(#glow2)"/>
+<g transform="translate(975 173)" filter="url(#shadow)">
+ <rect width="155" height="144" rx="26" fill="#10152c" stroke="#6949c7"/>
+ <path d="M78 31V18M68 18h20" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+ <rect x="31" y="35" width="94" height="72" rx="25" fill="#171d3c" stroke="#fff" stroke-width="5"/>
+ <g class="blink" style="transform-origin:78px 67px"><circle cx="60" cy="68" r="7" fill="#70e9ff"/><circle cx="96" cy="68" r="7" fill="#ca9cff"/></g>
+ <path d="M61 88q17 14 34 0" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+ <circle class="pulse" cx="25" cy="126" r="4" fill="#72e9b5"/><circle class="pulse p2" cx="42" cy="126" r="4" fill="#72e9ff"/>
+ <text x="55" y="131" fill="#9baac7" font-family="monospace" font-size="10">SYSTEM READY</text>
+</g>
+</svg>
