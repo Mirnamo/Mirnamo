@@ -13,6 +13,22 @@
 
 ---
 
+<div align="center">
+
+<a href="https://mernaahmedportfolio.netlify.app/#terminal">
+<img src="./assets/systems-world.svg" width="100%" alt="Animated 3D systems world with orbiting services and a robot operator" />
+</a>
+
+### 🎮 Ready for a production incident?
+
+Recover a simulated mainframe system in my interactive operator challenge.
+
+<a href="https://mernaahmedportfolio.netlify.app/#terminal"><img src="https://img.shields.io/badge/PLAY_THE_OPERATOR_CHALLENGE-72E9B5?style=for-the-badge&logo=gnometerminal&logoColor=07101C" alt="Play the operator challenge" /></a>
+
+</div>
+
+---
+
 ## 🪄 What I build
 
 I build internal tools, workflow automations, integrations, and modernization solutions for businesses dealing with scattered data, manual processes, or difficult existing applications.
