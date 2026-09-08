@@ -1,62 +1,74 @@
-# Hi, I'm Merna 👋
+<div align="center">
 
-I build **internal tools, workflow automations, integrations, and modernization solutions** for businesses dealing with scattered data, manual processes, or difficult existing applications.
+<img src="./assets/profile-hero.svg" width="100%" alt="Merna Ahmed — Full-stack systems builder" />
 
-My background includes enterprise software development at IBM and hands-on work with React, Next.js, Python, FastAPI, PHP, MySQL, REST APIs, authentication, technical documentation, and legacy-system analysis.
+<a href="https://mernaahmedportfolio.netlify.app/"><img src="https://img.shields.io/badge/Explore_my_portfolio-71E8FF?style=for-the-badge&logo=safari&logoColor=07101C" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/merna-ahmed/"><img src="https://img.shields.io/badge/Let's_connect-875EFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-## What I help businesses solve
+### I turn complicated systems into products people can actually use.
 
-- Replace spreadsheet and email workflows with internal applications
-- Connect APIs, databases, and third-party services
-- Stabilize incomplete or AI-generated applications
-- Add searchable interfaces to complex operational data
-- Analyze unfamiliar codebases and document how they work
-- Modernize existing systems incrementally and safely
+`Internal tools` · `Application rescue` · `API integrations` · `3D web` · `Legacy modernization`
 
-## Featured work
+</div>
 
-### [Immersive Full-Stack Lab](https://merna-immersive-fullstack-lab.netlify.app)
+---
 
-Seven interactive 3D product experiences spanning luxury configuration, digital twins, space planning, real estate, automotive, cloud infrastructure, and digital collections.
+## 🪄 What I build
 
-**Demonstrates:** React, Three.js, React Three Fiber, serverless APIs, responsive interaction design, business workflows, resilient persistence, and Netlify deployment. [View source](https://github.com/Mirnamo/immersive-fullstack-lab)
+I build internal tools, workflow automations, integrations, and modernization solutions for businesses dealing with scattered data, manual processes, or difficult existing applications.
 
-### [AI App Rescue Lab](https://github.com/Mirnamo/ai-app-rescue-lab)
+My background includes enterprise development at IBM and hands-on work across React, Next.js, Python, FastAPI, PHP, MySQL, REST APIs, authentication, documentation, and legacy-system analysis.
 
-A before-and-after case study showing how an unstable AI-generated SaaS application can be audited, secured, tested, documented, and prepared for reliable delivery.
+<img src="./assets/build-pipeline.svg" width="100%" alt="From a messy system to a reliable product" />
 
-**Demonstrates:** application rescue, authorization design, input validation, structured errors, audit logging, automated testing, architecture decisions, React, FastAPI, and Docker.
+| 🧭 Understand | 🛠️ Modernize | ✨ Deliver |
+|---|---|---|
+| Map unfamiliar codebases, dependencies, workflows, and operational risks. | Repair apps, connect APIs, replace manual steps, and improve maintainability. | Build polished interfaces, documented systems, tests, and deployment-ready solutions. |
 
-### [Legacy Code Intelligence](https://github.com/Mirnamo/legacy-code-intelligence)
+## 🚀 Featured builds
 
-A codebase-analysis application that inventories unfamiliar source files, maps symbols and dependencies, calculates explainable health scores, and produces modernization guidance.
+| | |
+|---|---|
+| **🌌 [Immersive Full-Stack Lab](https://merna-immersive-fullstack-lab.netlify.app)**<br>Seven interactive 3D product concepts.<br><br>`React` `Three.js` `Netlify Functions`<br>[Source →](https://github.com/Mirnamo/immersive-fullstack-lab) | **🧯 [AI App Rescue Lab](https://github.com/Mirnamo/ai-app-rescue-lab)**<br>Before-and-after application rescue case study.<br><br>`FastAPI` `Python` `Docker` `Pytest` |
+| **🧬 [Legacy Code Intelligence](https://github.com/Mirnamo/legacy-code-intelligence)**<br>Code inventory, dependency mapping, and explainable health scoring.<br><br>`React` `FastAPI` `Static analysis` | **🗂️ [Operations Workflow Hub](https://github.com/Mirnamo/operations-workflow-hub)**<br>Role-aware queues, reporting, and audit history.<br><br>`React` `REST APIs` `Docker` |
+| **💳 [FinFlow Banking Dashboard](https://github.com/Mirnamo/Banking_app)**<br>Secure sandbox banking integrations and operational workflows.<br><br>`Next.js` `Appwrite` `Plaid` `Dwolla` | **🎓 Enterprise perspective**<br>IBM Z, z/OS, REXX, HLASM, architecture, and legacy-code analysis.<br><br>`Systems` `Modernization` `Documentation` |
 
-**Demonstrates:** static analysis, legacy-system discovery, explainable scoring, technical documentation, modernization planning, React, and FastAPI.
+## 🧰 My toolbox
 
-### [Operations Workflow Hub](https://github.com/Mirnamo/operations-workflow-hub)
+<div align="center">
 
-A role-aware React and FastAPI operations dashboard with searchable work queues, reporting metrics, audit history, Docker support, and backend tests.
+![React](https://img.shields.io/badge/React-0B1020?style=flat-square&logo=react&logoColor=71E8FF)
+![Next.js](https://img.shields.io/badge/Next.js-0B1020?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1020?style=flat-square&logo=typescript&logoColor=7AA2FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1020?style=flat-square&logo=javascript&logoColor=FFE36E)
+![Python](https://img.shields.io/badge/Python-0B1020?style=flat-square&logo=python&logoColor=71E8FF)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B1020?style=flat-square&logo=fastapi&logoColor=54E0BC)
+![MySQL](https://img.shields.io/badge/MySQL-0B1020?style=flat-square&logo=mysql&logoColor=70B7FF)
+![Three.js](https://img.shields.io/badge/Three.js-0B1020?style=flat-square&logo=threedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0B1020?style=flat-square&logo=docker&logoColor=60B5FF)
+![IBM Z](https://img.shields.io/badge/IBM_Z-0B1020?style=flat-square&logo=ibm&logoColor=A887FF)
+![Git](https://img.shields.io/badge/Git-0B1020?style=flat-square&logo=git&logoColor=FF8066)
+![Netlify](https://img.shields.io/badge/Netlify-0B1020?style=flat-square&logo=netlify&logoColor=71E8FF)
 
-**Demonstrates:** internal-tool architecture, REST APIs, workflow modeling, auditability, responsive UI, and containerized development.
+</div>
 
-### [FinFlow Banking Dashboard](https://github.com/Mirnamo/Banking_app)
+## 🎮 Currently exploring
 
-A Next.js operations dashboard integrating Appwrite, Plaid sandbox, and Dwolla sandbox workflows with secure environment configuration.
+- Durable backends for immersive 3D product experiences
+- Safer ways to rescue and modernize AI-generated applications
+- Codebase intelligence for legacy and enterprise systems
+- Clear interfaces for complex operational workflows
 
-**Demonstrates:** third-party integrations, authentication, transaction data, full-stack development, and secure configuration practices.
+---
 
-## Technical toolbox
+<div align="center">
 
-**Application development:** React, Next.js, JavaScript, TypeScript, Python, FastAPI, PHP  
-**3D web:** Three.js, React Three Fiber, interactive WebGL experiences  
-**Data and integrations:** REST APIs, MySQL, SQL, Appwrite, Plaid, Dwolla, JSON  
-**Delivery:** Git, GitHub, Netlify, Docker, testing, debugging, technical documentation  
-**Enterprise systems:** IBM Z, z/OS, REXX, HLASM, legacy-code analysis
+### Have a messy application or workflow?
 
-## Current focus
+**I can understand it, make it reliable, and explain what changed.**
 
-I am building practical tools for immersive product experiences, codebase intelligence, application rescue, and business-process automation.
+[Portfolio](https://mernaahmedportfolio.netlify.app/) · [Projects](https://github.com/Mirnamo?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/merna-ahmed/)
 
-> I can understand a messy system, make it reliable, and explain what changed.
+<sub>Built with curiosity, careful engineering, and probably too many browser tabs ✦</sub>
 
-Open to carefully scoped freelance projects involving internal tools, 3D web experiences, integrations, debugging, workflow automation, and application modernization.
+</div>
